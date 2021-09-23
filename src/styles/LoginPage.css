@@ -1,0 +1,42 @@
+
+.logotinta{
+    background-color:rgba(255, 255, 255, 0.7);
+    align-self: center;
+    text-align: -webkit-center;
+    border-radius: 30px;
+}
+.logotinta img{
+    width: 50%;
+}
+.logotinta h1{
+    font-weight: bold;
+    font-size: 24pt;
+    font-family: "Roboto Thin";
+}
+.formulario{
+    align-self: center;
+    text-align-last: end;
+    background-color: rgba(70, 140, 205, 0.6);
+    padding-right: 40px;
+    padding-top: 50px;
+    border-radius: 30px;
+}
+.fondolog{
+    height: 730px;
+    background-image: url("https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: -webkit-right;
+}
+.login-form{
+    font-weight: bold;
+}
+.login-form a{
+    color: white;
+}
+.login-form input{
+    text-align-last: start;
+}
+.contbutton{
+    text-align-last: center;
+}

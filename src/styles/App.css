@@ -1,0 +1,19 @@
+@import '~antd/dist/antd.css';
+
+.main-header {
+  display: flex;
+}
+
+.logo {
+  max-width: 95px;
+  color: #ffffff;
+}
+
+.main-menu {
+  width: 100%;
+}
+
+.main-content {
+  max-width: 100%;
+
+}

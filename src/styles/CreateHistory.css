@@ -1,0 +1,37 @@
+.hisform{
+    margin-right: 30px;
+}
+.Contentform{
+    align-self: center;
+    text-align: -webkit-center;
+    border-radius: 30px;
+}
+.Contentform h1{
+    text-align-last: center;
+    font-family: "Monotype Corsiva";
+    font-size: 24pt;
+    font-weight: bold;
+}
+.Contentform img{
+    width: 75%;
+}
+.titulo{
+    text-align-last: center;
+    font-family: "Monotype Corsiva";
+    font-size: 24pt;
+    font-weight: bold;
+}
+.Contentform {
+    /*font-family: "Monotype Corsiva";*/
+    font-weight: bold;
+}
+.recomendados td{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.othertitle{
+    font-family: "Monotype Corsiva";
+    font-size: 20pt;
+    font-weight: bold;
+    text-align-last: center;
+}
